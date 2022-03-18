@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background: url("https://wallpaperaccess.com/full/1111946.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: White;
+    font-family: Times New Roman;
+  }
+  p {
+    font-size: 22px;
+  }
+  input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+  }
+  input[type="submit"] {
+    background: red;
+    font-family: arial;
+    color: white;
+  }
+  input[placeholder="Your email"] {
+    background: white;
+    font-family: arial;
+  }
+  
